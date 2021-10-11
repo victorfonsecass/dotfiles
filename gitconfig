@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = victorfonsecass@outlook.com
+	name = victor augusto
